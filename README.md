@@ -1,6 +1,6 @@
-# vue-test
+# Vue crud app
 
-> A Vue.js project
+> live demo: http://materialistic-stomach.surge.sh/
 
 ## Build Setup
 
