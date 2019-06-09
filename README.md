@@ -1,6 +1,6 @@
 # Vue crud app
 
-> live demo: http://materialistic-stomach.surge.sh/
+> live demo: http://overwrought-window.surge.sh
 
 ## Build Setup
 
